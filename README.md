@@ -1,2 +1,3 @@
-# cocoins
-Consistent Subject Generation via Contrastive Instantiated Concepts
+# Consistent Subject Generation via Contrastive Instantiated Concepts
+
+Coming soon.
